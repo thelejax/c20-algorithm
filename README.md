@@ -1,2 +1,2 @@
-# collisionAlgorithm
-Algorithm to detect collision between two objects
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
